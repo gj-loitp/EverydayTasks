@@ -110,7 +110,7 @@ Theme _pickerTheme(BuildContext context, Widget? child) {
           ),
           textButtonTheme: TextButtonThemeData(
             style: TextButton.styleFrom(
-              primary: BUTTON_COLOR,
+              foregroundColor: BUTTON_COLOR,
             ),
           ),
         ),
